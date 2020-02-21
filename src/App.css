@@ -1,0 +1,10 @@
+.App {
+  margin: 1rem;
+  text-align: center;
+}
+
+.counter-button {
+  color: white;
+  background-color: black;
+  font-size: 14pt;
+}
